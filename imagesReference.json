@@ -2,10 +2,51 @@
   "images": [
     {
       "title": "image1",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis1_big.jpg"
     },
     {
-
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis2_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis3_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis4_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis5_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis6_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis7_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis8_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis9_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis10_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis11_big.jpg"
+    },
+    {
+      "title": "image1",
+      "url": "https://raw.githubusercontent.com/Dmitry-Karnitsky/jsGallery/master/images/klematis12_big.jpg"
     }
   ]
 }
